@@ -5,7 +5,7 @@
 
 
 This is an [**Android**](https://developer.android.com) project. This app is designed for amateur football players in order to help them maintain existing groups and join other
-groups’ games. The project received a commendation in the <a href='https://goodtoknow.tau.ac.il/computer-h/workshop_projects/?tab=1'/> annual workshop competition of the CS faculty. </a>  The code is protected by copyright. I did the project with Ofir Feffer and Idan Reshef.  
+groups’ games.<br> The project received a commendation in the <a href='https://goodtoknow.tau.ac.il/computer-h/workshop_projects/?tab=1'/> annual workshop competition of the CS faculty. </a><br>  The code is protected by copyright.<br> I did the project with Ofir Feffer and Idan Reshef.  
 
 <br> 
 <br> 
