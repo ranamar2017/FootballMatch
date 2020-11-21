@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ranamar2017/FootballMatch/main/ic_launcher.png" align="left" height='200' hspace="1" vspace="1"/>
+<img src="https://raw.githubusercontent.com/ranamar2017/FootballMatch/main/ic_launcher.png" align="left" height='250' hspace="1" vspace="1"/>
 
 <a href='https://play.google.com/store/apps/details?id=workshop.cloud.tau.footballmatch' target='_blank' align="right"><img align="right" height='36' src='https://play.google.com/intl/en_us/badges/images/badge_new.png' alt='Get it on Google Play' /></a>
 # Football Match
